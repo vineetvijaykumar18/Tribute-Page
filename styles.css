@@ -1,0 +1,38 @@
+#main{
+    text-align: center;  
+    background-color: #C0C0C0; 
+  }
+  
+  h1 {
+    font-size: 60px; 
+  }
+  
+  h1, h2, h3, figcaption{
+    font-family: sans-serif; 
+  }
+  
+  h3 {
+    font-size: 20px; 
+  }
+  
+  a {
+    font-size: 18px; 
+    font-family: helvetica; 
+  }
+  
+  img {
+   max-width: 100%;
+    display: block; 
+    margin-left: auto;
+  margin-right: auto;
+    height: auto; 
+  }
+  
+  #films {
+    display: inline-block;
+    text-align: left;
+    list-style-type: none;
+  }
+  
+  
+  
